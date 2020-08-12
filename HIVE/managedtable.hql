@@ -2,7 +2,7 @@ CREATE TABLE IF NOT EXISTS salesdata (
   Region STRING, 
   Country STRING, 
   Itemtype STRING, 
-  Orderdate DATE, 
+  Orderdate STRING, 
   Orderid INT, 
   Unitssold INT, 
   Unitprice DOUBLE
