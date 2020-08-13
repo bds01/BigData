@@ -1,0 +1,31 @@
+contactid,firstname,lastname,address,city,state,zip,phone,email
+120,Bette,Nicka,6 S 33rd St,Aston,PA,19014,610-492-4643,bette_nicka@cox.net
+121,Veronika,Inouye,6 Greenleaf Ave,San Jose,CA,95111,408-813-4592,vinouye@aol.com
+122,Willard,Kolmetz,618 W Yakima Ave,Irving,TX,75062,972-896-4882,willard@hotmail.com
+123,Maryann,Royster,74 S Westgate St,Albany,NY,12204,518-448-8982,mroyster@royster.com
+124,Alisha,Slusarski,3273 State St,Middlesex,NJ,8846,732-635-3453,alisha@slusarski.com
+125,Allene,Iturbide,1 Central Ave,Stevens Point,WI,54481,715-530-9863,allene_iturbide@cox.net
+126,Chanel,Caudy,86 Nw 66th St #8673,Shawnee,KS,66218,913-899-1103,chanel.caudy@caudy.org
+127,Ezekiel,Chui,2 Cedar Ave #84,Easton,MD,21601,410-235-8738,ezekiel@chui.com
+128,Willow,Kusko,90991 Thorburn Ave,New York,NY,10011,212-934-5167,wkusko@yahoo.com
+129,Bernardo,Figeroa,386 9th Ave N,Conroe,TX,77301,936-597-3614,bfigeroa@aol.com
+130,Ammie,Corrio,74874 Atlantic Ave,Columbus,OH,43215,614-648-3265,ammie@corrio.com
+131,Francine,Vocelka,366 South Dr,Las Cruces,NM,88011,505-335-5293,francine_vocelka@vocelka.com
+132,Ernie,Stenseth,45 E Liberty St,Ridgefield Park,NJ,7660,201-387-9093,ernie_stenseth@aol.com
+133,Albina,Glick,4 Ralph Ct,Dunellen,NJ,8812,732-782-6701,albina@glick.com
+134,Alishia,Sergi,2742 Distribution Way,New York,NY,10025,212-753-2740,asergi@gmail.com
+135,Solange,Shinko,426 Wolf St,Metairie,LA,70002,504-265-8174,solange@shinko.com
+136,Jose,Stockham,128 Bransten Rd,New York,NY,10011,212-569-4233,jose@yahoo.com
+137,Rozella,Ostrosky,17 Morena Blvd,Camarillo,CA,93012,805-609-1531,rozella.ostrosky@ostrosky.com
+138,Valentine,Gillian,775 W 17th St,San Antonio,TX,78204,210-300-6244,valentine_gillian@gmail.com
+139,Kati,Rulapaugh,6980 Dorsett Rd,Abilene,KS,67410,785-219-7724,kati.rulapaugh@hotmail.com
+140,Youlanda,Schemmer,2881 Lewis Rd,Prineville,OR,97754,541-993-2611,youlanda@aol.com
+141,Dyan,Oldroyd,7219 Woodfield Rd,Overland Park,KS,66204,913-645-8918,doldroyd@aol.com
+142,Roxane,Campain,1048 Main St,Fairbanks,AK,99708,907-335-6568,roxane@hotmail.com
+143,Lavera,Perin,678 3rd Ave,Miami,FL,33196,305-995-2078,lperin@perin.org
+144,Erick,Ferencz,20 S Babcock St,Fairbanks,AK,99712,907-227-6777,erick.ferencz@aol.com
+145,Fatima,Saylors,2 Lighthouse Ave,Hopkins,MN,55343,952-479-2375,fsaylors@saylors.org
+146,Jina,Briddick,38938 Park Blvd,Boston,MA,2128,617-997-5771,jina_briddick@briddick.com
+147,Kanisha,Waycott,5 Tomahawk Dr,Los Angeles,CA,90006,323-315-7314,kanisha_waycott@yahoo.com
+148,Emerson,Bowley,762 S Main St,Madison,WI,53711,608-658-7940,emerson.bowley@bowley.org
+149,Blair,Malet,209 Decker Dr,Philadelphia,PA,19132,215-794-4519,bmalet@yahoo.com
